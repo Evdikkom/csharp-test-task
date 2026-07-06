@@ -1,0 +1,30 @@
+# Результаты сборки
+bin/
+obj/
+out/
+
+# Пользовательские файлы среды разработки
+*.user
+*.suo
+*.rsuser
+.vs/
+.vscode/
+
+# Настройки Rider
+.idea/
+
+# Результаты тестов
+TestResults/
+coverage/
+*.trx
+*.coverage
+*.coveragexml
+
+# Системные файлы ОС
+.DS_Store
+Thumbs.db
+
+# Логи и файлы, которые появляются после ручного запуска примера
+*.log
+output.txt
+problems.txt

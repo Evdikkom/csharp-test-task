@@ -8,12 +8,15 @@
 
 ```text
 CSharpTestTask/
+├── samples/                       # Примеры входных и выходных файлов
 ├── src/
 │   ├── CSharpTestTask.Core/       # Основная логика задач 1, 2 и 3
 │   └── CSharpTestTask.Console/    # Консольный запуск для задачи 3
 ├── tests/
 │   └── CSharpTestTask.Tests/      # Автоматические тесты
-├── samples/                       # Примеры входных и выходных файлов
+├── .editorconfig
+├── .gitattributes
+├── .gitignore
 ├── CSharpTestTask.sln
 └── README.md
 ```
